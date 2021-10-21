@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LilRadbod
-- 👀 I’m interested in Data Security 
+- 👀 I’m interested in Data Security / Cyber Security
 - 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me : DM Me on Twitter : @LilRadbod
 
