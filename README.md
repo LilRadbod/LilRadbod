@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilRadbod
 - 👀 I’m interested in Data Security / Cyber Security
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python , HTML and JavaScript
 - 📫 How to reach me : DM Me on Twitter : @LilRadbod
 
 <!---
